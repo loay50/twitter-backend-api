@@ -1,0 +1,5 @@
+# twitter-backend-api
+
+Just install the node modules packege and express and axios
+and then, run the code like this : nodemon app.js 
+the api will start working locally, then open the twitter-frontend and run it and you are good to go :)
